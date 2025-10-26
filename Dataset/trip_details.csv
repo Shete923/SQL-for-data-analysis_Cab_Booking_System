@@ -1,0 +1,301 @@
+trip_id,booking_id,pickup_location,dropoff_location,distance_km,fare
+1,1,Lake Mary,Roseberg,39.97,414.95
+2,2,Port Deanna,East Stephanie,27.11,405.91
+3,3,Robertchester,Danielsstad,0.0,0.0
+4,4,Port Brian,Samuelton,26.29,380.03
+5,5,Wadechester,Smithmouth,41.76,382.15
+6,6,Andrewchester,Vazquezhaven,18.01,154.93
+7,7,Elaineshire,Port Erin,0.0,0.0
+8,8,Erinland,East Valerie,0.0,0.0
+9,9,Gillespieport,Port Elizabethshire,16.0,182.28
+10,10,New David,New Coreyhaven,3.34,41.14
+11,11,Joseview,Nicoleside,0.0,0.0
+12,12,Port Sherry,North Robin,0.0,0.0
+13,13,Medinaberg,Petersonburgh,0.0,0.0
+14,14,Brentfurt,New Christopherfurt,0.0,0.0
+15,15,East Georgeborough,New Scottborough,0.0,0.0
+16,16,New Michele,Rogersmouth,0.0,0.0
+17,17,West Scottbury,Christinetown,0.0,0.0
+18,18,West Cindy,Lake Johnbury,44.65,410.13
+19,19,Port Emilyshire,Lake Carolborough,17.7,168.5
+20,20,Wagnerside,East Colleen,22.4,321.86
+21,21,South Sarahfort,Walkerstad,0.0,0.0
+22,22,Port Jonathanview,Matthewland,0.0,0.0
+23,23,West Donaldview,North Elizabethberg,37.23,396.8
+24,24,New Samuel,Simpsonmouth,0.0,0.0
+25,25,Stevenshaven,Jamieville,0.0,0.0
+26,26,New Victoriaview,Lake Michaelton,0.0,0.0
+27,27,Kennethton,West Erica,0.0,0.0
+28,28,Lake Erikaport,North Gary,0.0,0.0
+29,29,Vanessaburgh,Floresside,0.0,0.0
+30,30,Brandonhaven,Hendersonchester,45.77,457.86
+31,31,New Meganside,New Craig,0.0,0.0
+32,32,Nicoleton,Alexshire,32.23,331.94
+33,33,North Molly,Margaretview,0.0,0.0
+34,34,Kimberlyfort,Port Breannastad,0.0,0.0
+35,35,Smithside,New Christina,9.24,120.41
+36,36,Christopherstad,Youngborough,0.0,0.0
+37,37,Lake Tiffanyside,North Jeffreyland,4.5,49.33
+38,38,New Scott,Lake Seanstad,0.0,0.0
+39,39,North Melvin,South Julieside,44.9,522.38
+40,40,Thomaschester,Johnsonchester,46.2,647.5
+41,41,Coleview,Amyview,0.0,0.0
+42,42,North Brittanyhaven,Tonyaland,23.88,299.17
+43,43,New Alexis,New Emma,0.0,0.0
+44,44,Lake Daniel,New Melissastad,25.13,230.34
+45,45,Suarezburgh,Wheelerhaven,0.0,0.0
+46,46,East Mary,Greentown,0.0,0.0
+47,47,New Jamesmouth,Jeffreyburgh,0.0,0.0
+48,48,South Benjaminport,Smithmouth,0.0,0.0
+49,49,Mallorychester,Taylorstad,21.87,220.16
+50,50,South Jeffrey,West Sarah,0.0,0.0
+51,51,Port Adam,Port Thomas,0.0,0.0
+52,52,North Deborah,Patelburgh,49.85,415.29
+53,53,Sarahport,Mcdonaldland,0.0,0.0
+54,54,South Johnborough,Lake Lawrenceburgh,41.88,445.71
+55,55,Mathewton,Shannontown,0.0,0.0
+56,56,North Sean,Davidton,44.73,400.3
+57,57,North Davidstad,Mooreville,0.0,0.0
+58,58,Jamesland,West Kristin,24.02,259.4
+59,59,Mcintoshberg,East Randy,0.0,0.0
+60,60,Douglasville,East Willie,0.0,0.0
+61,61,Grantmouth,South Robertside,29.14,332.02
+62,62,North Donald,New Tanner,0.0,0.0
+63,63,South Angela,Lake Kimhaven,11.54,158.38
+64,64,Julieport,West Karenmouth,2.22,22.52
+65,65,South Gwendolyn,Heatherchester,0.0,0.0
+66,66,New Rebecca,Michelleside,0.0,0.0
+67,67,New Michael,Olsonmouth,0.0,0.0
+68,68,Lake Kristy,Drakebury,33.69,439.14
+69,69,Mcclurechester,Andrewland,0.0,0.0
+70,70,Fuenteschester,East Lisabury,37.8,472.31
+71,71,Santosmouth,Greenchester,0.0,0.0
+72,72,Stevenchester,Hughesside,0.0,0.0
+73,73,East Rhonda,Port Deannafort,0.0,0.0
+74,74,North Barbara,Patrickport,39.9,579.78
+75,75,East Kathleen,East Jamie,27.3,355.58
+76,76,Millermouth,South Cheyenne,0.0,0.0
+77,77,West Loganstad,New Jeanette,24.04,219.33
+78,78,Lake Christianfort,West Sergio,0.0,0.0
+79,79,South Sandraborough,East Dylanmouth,0.0,0.0
+80,80,Wernerside,Carolborough,38.46,319.36
+81,81,New Stephentown,Moralesshire,6.83,91.06
+82,82,West Frank,East Jeanne,0.0,0.0
+83,83,New Danielmouth,Dawnstad,0.0,0.0
+84,84,Jonesville,New Jeff,35.92,316.32
+85,85,Lake Katelynview,East Jenniferstad,39.9,348.26
+86,86,Colebury,Port Aaron,0.0,0.0
+87,87,Megantown,New Lisa,12.0,120.44
+88,88,Norrismouth,Kevinshire,0.0,0.0
+89,89,Rossland,Port Barbara,0.0,0.0
+90,90,Hernandezshire,West Michael,0.0,0.0
+91,91,East Justinstad,West Janet,9.89,121.41
+92,92,North Robertville,South Melissaberg,0.0,0.0
+93,93,East Jenniferview,Brandytown,19.71,229.16
+94,94,Cynthiashire,Lauraview,0.0,0.0
+95,95,Lake Jeremymouth,Lake Kevin,5.74,58.22
+96,96,Whitechester,North Jamesberg,0.0,0.0
+97,97,South Tiffany,Nathanielstad,0.0,0.0
+98,98,Susanfort,Lukeborough,16.39,186.55
+99,99,East Carla,Lake Julie,43.8,648.2
+100,100,South Meredith,North Tiffany,17.23,143.89
+101,101,South Kendra,Suemouth,7.23,87.03
+102,102,Lake Deborahfurt,Port Bonnietown,0.0,0.0
+103,103,East Davidview,Port Lindaborough,45.67,655.49
+104,104,Tamaraton,Lake Brooke,47.8,417.07
+105,105,North Jasonside,Lake John,36.42,399.06
+106,106,North Mary,South Adrianafurt,38.94,553.58
+107,107,North Nicole,Willisside,24.95,301.51
+108,108,South Traceymouth,New Georgeside,20.56,272.29
+109,109,Robertville,Lake Jacobfort,24.3,350.11
+110,110,Stevenburgh,Martinborough,0.0,0.0
+111,111,Nunezchester,Myersland,43.72,437.45
+112,112,North Valerie,Randytown,0.0,0.0
+113,113,Hollandtown,Robinsonchester,43.34,562.26
+114,114,West Davidton,Olsonshire,49.52,611.4
+115,115,Lake Williamshire,Samuelview,31.49,337.41
+116,116,Mackhaven,Knightmouth,22.59,323.41
+117,117,Lake Rebecca,Port Robertshire,0.0,0.0
+118,118,North Matthewview,New Chrischester,0.0,0.0
+119,119,Brewermouth,Jenniferfort,2.8,38.48
+120,120,Brownborough,Gutierrezland,13.61,166.89
+121,121,Edwardberg,Cunninghamland,35.13,297.43
+122,122,Laurenland,Lisaland,0.0,0.0
+123,123,Edwardsstad,Austinland,22.64,305.59
+124,124,East Mariestad,Walkerhaven,48.48,646.41
+125,125,South Ryanstad,Crossburgh,41.29,484.99
+126,126,Johnburgh,North Logan,0.0,0.0
+127,127,Michaelmouth,New Patricia,26.53,359.55
+128,128,Lake Joshua,Mendezburgh,0.0,0.0
+129,129,New Kathryn,Port Kathleenshire,0.0,0.0
+130,130,Lake Lisastad,South Justin,17.19,215.52
+131,131,North Vicki,New Victoriamouth,0.0,0.0
+132,132,Carolport,North Crystal,0.0,0.0
+133,133,Jaimeshire,Port Danland,0.0,0.0
+134,134,Port Nicoleland,Port Jenniferbury,5.41,60.87
+135,135,New Jennifermouth,Spencerport,0.0,0.0
+136,136,New Caitlin,South Anthony,0.0,0.0
+137,137,Davidport,Gibsonborough,0.0,0.0
+138,138,New Danielle,Hunterland,49.66,733.15
+139,139,Tashaborough,Singletonfurt,0.0,0.0
+140,140,East Troy,West Jennifer,0.0,0.0
+141,141,Evansbury,New Mike,0.0,0.0
+142,142,East Raymondland,Natalieshire,0.0,0.0
+143,143,Karentown,Pricebury,4.93,73.65
+144,144,Port Kristinstad,Lake Danielton,10.81,154.52
+145,145,East Ericberg,New William,0.0,0.0
+146,146,East Gregory,Mccoymouth,18.64,199.49
+147,147,Vasquezhaven,Johnsonside,0.0,0.0
+148,148,South Lisahaven,Michaelburgh,3.72,32.17
+149,149,Port Anthonyland,North Diana,0.0,0.0
+150,150,West Cory,Caseyfurt,0.0,0.0
+151,151,Lake Richardfurt,Smithview,9.95,83.5
+152,152,West Dianaport,Lake Michael,0.0,0.0
+153,153,South Lisa,Lake Michellehaven,8.39,102.24
+154,154,Port Zachary,Hollowayport,24.97,330.84
+155,155,Mendozafort,West Allison,20.88,288.21
+156,156,Mirandaberg,Susanview,0.0,0.0
+157,157,East Sherimouth,Jordanbury,0.0,0.0
+158,158,Lake Nathan,Goodwinmouth,0.0,0.0
+159,159,Randallstad,Jenniferport,0.0,0.0
+160,160,South Cliffordshire,Terryborough,49.3,483.09
+161,161,West Steve,North Mariastad,21.88,292.6
+162,162,West Emily,Dixonfort,0.0,0.0
+163,163,South Rachelbury,Armstronghaven,0.0,0.0
+164,164,Lake Donchester,Port Williamfort,38.33,473.8
+165,165,West John,Annemouth,41.0,403.21
+166,166,Paynebury,Kristinshire,0.0,0.0
+167,167,New Ruth,South Aimeefort,0.0,0.0
+168,168,Aguilarport,Port Jennifer,2.9,34.6
+169,169,Millerburgh,South Sean,46.09,646.31
+170,170,Austinburgh,East Adam,37.08,348.1
+171,171,Ryanstad,East Tiffany,0.0,0.0
+172,172,East Derrick,New Davidport,0.0,0.0
+173,173,East Julieport,Dariusburgh,0.0,0.0
+174,174,New Melissamouth,East Heatherchester,49.58,496.25
+175,175,Nicholasside,West Benjamin,37.31,352.69
+176,176,Port Krystal,Richardsberg,21.05,269.06
+177,177,Lake Johnnystad,Thompsonburgh,10.93,101.41
+178,178,Deborahfurt,Oconnellfort,0.0,0.0
+179,179,South Deniseland,Andersonshire,8.92,129.28
+180,180,Gonzalesshire,West Bobbyburgh,46.14,416.89
+181,181,Charlesport,South Edwinmouth,0.0,0.0
+182,182,Lake Jamesmouth,Jacksonshire,0.0,0.0
+183,183,Clarkview,East Teresaside,0.0,0.0
+184,184,Steventown,Port Janice,14.36,140.86
+185,185,Port Christopher,Georgeborough,0.0,0.0
+186,186,Harrisonburgh,Bullockville,0.0,0.0
+187,187,Kristineshire,Medinafurt,30.63,391.23
+188,188,Thomasside,Mortonton,0.0,0.0
+189,189,East Heather,South Erin,0.0,0.0
+190,190,Williamsmouth,Lake Rachel,13.62,124.48
+191,191,East Ryan,West Thomasstad,0.0,0.0
+192,192,Port Jesse,West Laura,0.0,0.0
+193,193,West Michaelport,Port Samanthashire,0.0,0.0
+194,194,North Brandi,Lake Robertmouth,0.0,0.0
+195,195,Port Justinton,Victorside,0.0,0.0
+196,196,Zacharyborough,West Sabrinafort,0.0,0.0
+197,197,West Justinbury,Port Andrewtown,16.12,203.47
+198,198,Acevedochester,New Kelly,0.0,0.0
+199,199,South Danielleborough,Wilsonchester,24.24,214.39
+200,200,West Christina,South Anthonychester,5.13,76.88
+201,201,Smallfort,South Claudia,25.96,318.49
+202,202,Port Kimberlyborough,Rebekahmouth,0.0,0.0
+203,203,Thomasview,Jessicaside,3.72,32.7
+204,204,Port Autumnburgh,West Cody,0.0,0.0
+205,205,New Larryville,Joshuashire,8.86,87.39
+206,206,Lake Alexander,West Keith,40.99,481.45
+207,207,East Rachel,Port Brittanyberg,0.0,0.0
+208,208,East Timothy,West Ronald,0.0,0.0
+209,209,East Crystal,Riveraburgh,0.0,0.0
+210,210,Port Stephanieborough,South Johnchester,0.0,0.0
+211,211,East Jose,New Wesleybury,0.0,0.0
+212,212,Reyesport,Susanborough,0.0,0.0
+213,213,Williamston,West Ryan,38.59,577.74
+214,214,North Joseph,Harperfort,45.23,486.0
+215,215,Dustinberg,Robinsonstad,0.0,0.0
+216,216,East Rachel,East Shawnburgh,0.0,0.0
+217,217,Thomasfurt,Rothfurt,39.36,480.64
+218,218,New Kimport,Jenniferton,17.18,216.88
+219,219,Tracyburgh,Dominiquemouth,44.06,605.44
+220,220,South Cynthiafurt,Keithchester,0.0,0.0
+221,221,Port Matthewstad,Lake Candaceburgh,0.0,0.0
+222,222,Christopherland,West Carmen,0.0,0.0
+223,223,Nicholaston,South Stacy,32.15,408.69
+224,224,New Aaronberg,Lewischester,0.0,0.0
+225,225,Elizabethmouth,Holmesside,43.57,381.55
+226,226,New Tylerborough,Port Kellybury,0.0,0.0
+227,227,North Jeffreymouth,Port Lauraland,0.0,0.0
+228,228,Dustinmouth,New Eddiebury,0.0,0.0
+229,229,Jessicaberg,Andersonfort,3.46,32.45
+230,230,Lake Danielfort,North Garyside,0.0,0.0
+231,231,Hendrickschester,South Jessicaland,37.33,438.08
+232,232,Suttonborough,Tinamouth,0.0,0.0
+233,233,East Jasonchester,Davidfurt,26.53,347.56
+234,234,Tomfort,Christopherfort,29.37,331.95
+235,235,Jenniferstad,Michaelbury,0.0,0.0
+236,236,New Michaeltown,Port Eric,29.16,261.19
+237,237,Lake Richardburgh,Hendersonville,0.0,0.0
+238,238,East Williamton,Wangfort,0.0,0.0
+239,239,Thompsonland,Williamsberg,34.71,395.87
+240,240,Harperhaven,Lake Jacquelinefort,0.0,0.0
+241,241,West Christina,Joannburgh,0.0,0.0
+242,242,North Carol,East Eileen,38.45,512.71
+243,243,Port Timothy,Courtneyborough,14.04,192.1
+244,244,Natashaton,Rhondafort,0.0,0.0
+245,245,New Lisa,Lake Sarahberg,0.0,0.0
+246,246,Nashside,North Alanport,34.56,460.05
+247,247,Port Brenda,Mccoyhaven,0.0,0.0
+248,248,Garymouth,North Krystal,0.0,0.0
+249,249,Robertsonfurt,Port Sherryton,0.0,0.0
+250,250,Pinedaburgh,Harrismouth,0.0,0.0
+251,251,New Debbie,Brooksfort,0.0,0.0
+252,252,Brittanymouth,Michaeltown,49.1,599.01
+253,253,Chavezchester,Huertastad,25.29,373.98
+254,254,West Lisa,Dominguezbury,26.48,395.65
+255,255,Port Travismouth,North Dawn,0.0,0.0
+256,256,Ginabury,Herreraborough,49.06,651.42
+257,257,West Derrickmouth,Juliahaven,0.0,0.0
+258,258,Amyberg,North Joseph,25.86,325.71
+259,259,Natalieton,Meyersfort,0.0,0.0
+260,260,West Thomasshire,South Elizabethville,0.0,0.0
+261,261,South Jaclynchester,West Amandaberg,0.0,0.0
+262,262,West Curtis,West Rachelburgh,0.0,0.0
+263,263,West Johnmouth,Pedroburgh,0.0,0.0
+264,264,Dennismouth,Lake Nicole,0.0,0.0
+265,265,Donaldview,Weaverberg,0.0,0.0
+266,266,West Kristinton,Harrisbury,0.0,0.0
+267,267,South Anthonyview,East Carolyn,17.37,233.75
+268,268,South Shelby,West Tina,0.0,0.0
+269,269,New Stephanie,Port Michael,0.0,0.0
+270,270,Andrewbury,Michaelview,0.0,0.0
+271,271,East Timothymouth,Gregoryville,49.98,566.0
+272,272,Lake Christianland,New George,31.92,312.14
+273,273,East Antonio,East Ashleyville,0.0,0.0
+274,274,North Marcstad,Port Joseph,0.0,0.0
+275,275,Madisonton,North Jacob,43.83,389.62
+276,276,New Timothyshire,Carterborough,37.76,474.19
+277,277,Jeffreybury,Greermouth,0.0,0.0
+278,278,Erikashire,Garrettside,0.0,0.0
+279,279,Emmafurt,Matthewside,10.0,98.5
+280,280,North Williamchester,Padillatown,0.0,0.0
+281,281,Jonathanport,Michaelfort,15.83,168.54
+282,282,Port Jeffrey,Lake Richard,16.44,170.35
+283,283,Port Juan,Carrollville,0.0,0.0
+284,284,South Nicolefort,North Davidtown,31.29,359.43
+285,285,Nguyenland,East Stephenview,0.0,0.0
+286,286,Johnton,Jamesport,0.0,0.0
+287,287,South Evan,Lake Valerietown,0.0,0.0
+288,288,West Judith,Ambertown,14.98,197.59
+289,289,East Aarontown,East Taraland,45.3,558.88
+290,290,Amandaview,Vargasbury,24.13,326.55
+291,291,Byrdberg,Davisshire,0.0,0.0
+292,292,Jacksonport,Reesefort,0.0,0.0
+293,293,Snyderburgh,West Angelahaven,25.3,249.16
+294,294,Bishopview,Jacobsonburgh,0.0,0.0
+295,295,Brendaville,North Toni,0.0,0.0
+296,296,Port Brian,Greenport,46.02,448.34
+297,297,West Christopher,Deniseburgh,47.82,448.49
+298,298,Carriefurt,Jacksonbury,20.44,219.03
+299,299,Danielfort,Lake Jamie,0.0,0.0
+300,300,East Diane,New Jessica,27.13,406.22
